@@ -1,0 +1,6 @@
+weights/
+darknet/
+*.avi
+*.csv
+JPEGImages/
+labels/
